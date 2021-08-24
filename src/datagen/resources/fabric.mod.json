@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id"           : "modid-data",
+  "version"      : "1",
+  "entrypoints"  : {
+    "bai:datagen": ["net.fabricmc.example.data.ExampleData"]
+  }
+}
